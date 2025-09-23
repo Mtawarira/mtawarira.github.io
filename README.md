@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio – Mqhele Norman Mtawarira
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Site-Online-brightgreen?style=flat-square&logo=github)](https://mtawarira.github.io/portfolio)  
+[![GitHub Pages](https://img.shields.io/badge/Live%20Site-Online-brightgreen?style=flat-square&logo=github)](https://mtawarira.github.io)  
 [![Made with HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Made with CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Made with Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)  
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 [**View Portfolio Website**](https://mtawarira.github.io/portfolio)  
+🔗 [**View Portfolio Website**](https://mtawarira.github.io)  
 
 ---
 
